@@ -1,0 +1,7 @@
+﻿  Snake.cpp
+C:\Users\Computer\source\repos\Snake\Snake\Snake.cpp(134,15): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Computer\source\repos\Snake\Snake\Snake.cpp(193,14): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Computer\source\repos\Snake\Snake\Snake.cpp(238,23): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Computer\source\repos\Snake\Snake\Snake.cpp(275,9): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Computer\source\repos\Snake\Snake\Snake.cpp(343,23): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Snake.vcxproj -> C:\Users\Computer\source\repos\Snake\x64\Debug\Snake.exe
